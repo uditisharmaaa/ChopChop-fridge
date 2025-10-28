@@ -55,10 +55,10 @@ I used **ChatGPT (GPT-5)** to help with:
 I modified AI-suggested code to remove authentication, simplify state handling, and tailor it to my use case.
 
 ## Screenshots
-![App Screenshot](/screenshots/chopchopss1.png)
-![App Screenshot](/screenshots/chopchopss2.png)
+![App Screenshot](/screenshots/chochopss1.png)
+![App Screenshot](/screenshots/chochopss2.png)
 
-![App Screenshot](/screenshots/chopchopss3.png)
+![App Screenshot](/screenshots/chochopss3.png)
 Technical Implementation: Features client-side Tesseract.js OCR processing with real-time image preprocessing and canvas-based enhancement algorithms. Post-OCR text is intelligently parsed using Google Gemini API to extract grocery items and estimate expiration dates with 95%+ accuracy.
 
 
