@@ -43,7 +43,7 @@ PORT=5001
 `cd server && node index.js`
 5. Run the frontend  
 `cd client && npm run dev`
-6. Open `http://localhost:5173` (or as shown in console)
+6. Open `http://localhost:3000` (or as shown in console)
 
 ## AI Assistance
 I used **ChatGPT (GPT-5)** to help with:
